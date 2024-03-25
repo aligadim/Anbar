@@ -1,5 +1,5 @@
 <h1>Anbar idarəetmə sistemi</h1>
-<p>Proqram Laravel üzərindən Qədimov Əli tərəfindən yığılmışdır. Proqramda Anbar idarəetmə sistemi üçün lazım olan ilkin alətlər yaradılmışdır. Proqramı quraşdırmaq üçün sadəcə serverə yükləyərək verilənlər bazasını miqrasiya etmək kifayətdir.</p>
+<p>Proqram Laravel üzərindən <b>Qədimov Əli</b> tərəfindən yığılmışdır. Proqramda Anbar idarəetmə sistemi üçün lazım olan ilkin alətlər yaradılmışdır. Proqramı quraşdırmaq üçün sadəcə serverə yükləyərək verilənlər bazasını miqrasiya etmək kifayətdir.</p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
